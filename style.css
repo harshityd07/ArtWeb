@@ -33,7 +33,7 @@ border-radius: 5px}
 	justify-content: space-evenly;
 }
 
-html{background: url(./Image/Background.png);
+html{background: url(./Background.png);
 width: 100%;height:100%;}
 
 .contact{font-family: 'Jost', sans-serif;
